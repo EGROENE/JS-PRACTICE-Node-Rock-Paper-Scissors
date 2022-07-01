@@ -1,2 +1,3 @@
 # Node-RPS
 As the name suggests, this is a 'Rock, Paper, Scissors' game I built. It runs in the terminal & I used JavaScript and the Node.js package 'readline-sync' from NPM. The user can select either 'rock', 'paper', 'scissors', or 'I can't decide', in which case the user's choice is randomized. Included in this randomized choice is 'bomb', whereby the user automatically wins, and 'suicide bomb', whereby the computer automatically wins. The computer's choice is randomized and limited to 'rock', 'paper', & 'scissors'. After the choices of each party are finalized, the result is reported. It is a pretty basic program.
+See a demo of this project here: https://www.youtube.com/watch?v=Npm-aTfmJYI
